@@ -17,6 +17,8 @@ Read, then run the script:
 * [Ruby] stable for writing general-purpose code
 * [Tmux] for saving project state and switching between projects
 * [Zsh] as your shell
+* [MySQL] as your relational database
+* Git-flow
 
 [Bundler]: http://bundler.io/
 [Exuberant Ctags]: http://ctags.sourceforge.net/
@@ -30,6 +32,7 @@ Read, then run the script:
 [Ruby]: https://www.ruby-lang.org/en/
 [Tmux]: http://tmux.sourceforge.net/
 [Zsh]: http://www.zsh.org/
+[MySQL]: http://mysql.org/
 
 # License
 
